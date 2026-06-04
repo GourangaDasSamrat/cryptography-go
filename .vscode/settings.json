@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "[go]": {
+    "editor.defaultFormatter": "golang.go"
+  },
+  "go.useLanguageServer": true,
+  "go.formatTool": "goimports",
+  "go.lintTool": "golangci-lint-v2",
+  "go.toolsManagement.autoUpdate": true,
+  "go.testFlags": ["-v"],
+  "go.generateTestsFlags": ["-w", "-all"]
+}
