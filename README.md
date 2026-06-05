@@ -31,6 +31,18 @@ This is a course from [Boot.dev](https://www.boot.dev/courses/learn-cryptography
 - **Level 5**: Formatting (Coding Challenge)
 - **Level 6**: Decoding (Coding Challenge)
 
+## Chapter 3: Brute Force
+
+### Levels
+
+- **Level 1**: Alphabet Formula (Coding Challenge)
+- **Level 2**: Brute Force Attacks (Quiz)
+- **Level 3**: Brute Force Attacks (Quiz)
+- **Level 4**: Brute Force Attacks (Quiz)
+- **Level 5**: Crack an Insecure Key (Coding Challenge)
+- **Level 6**: Entropy (Quiz)
+- **Level 7**: Entropy (Quiz)
+
 ## Running Tests
 
 Use the `justfile` to run tests for a specific chapter and level:
