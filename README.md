@@ -20,6 +20,17 @@ This is a course from [Boot.dev](https://www.boot.dev/courses/learn-cryptography
 - **Level 12**: Single-Use Keys Review (Quiz)
 - **Level 13**: Single-Use Keys Review (Quiz)
 
+## Chapter 2: Encoding
+
+### Levels
+
+- **Level 1**: Encoding Bytes (Coding Challenge)
+- **Level 2**: Encoding != Encryption (Quiz)
+- **Level 3**: Encoding != Encryption (Quiz)
+- **Level 4**: Encoding != Encryption (Quiz)
+- **Level 5**: Formatting (Coding Challenge)
+- **Level 6**: Decoding (Coding Challenge)
+
 ## Running Tests
 
 Use the `justfile` to run tests for a specific chapter and level:
