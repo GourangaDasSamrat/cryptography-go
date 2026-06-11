@@ -1,21 +1,83 @@
-MIT License
+# License
 
-Copyright (c) 2026 Gouranga Das Samrat 
+**Copyright © 2026 Gouranga Das Samrat. All Rights Reserved.**
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Purpose and Intent
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This repository contains my personal solutions to Boot.dev's [Learn Cryptography with Golang](https://www.boot.dev/courses/learn-cryptography-golang) course. These materials are shared strictly for educational reference and learning purposes only.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Repository Contents
+
+This repository includes two categories of files with different ownership:
+
+### My Original Work (solution files)
+- **`main.go`** files in each chapter/level directory — these are my own original solutions, written by me
+
+### Third-Party Course Material (Boot.dev property)
+- **`*_test.go`** and **`main_tests.go`** files — these are the intellectual property of Boot.dev and are included solely as the test harness required to validate and run my solutions locally
+- **`helpers.go`** files — likewise owned by Boot.dev and included as course-provided scaffolding
+
+**Boot.dev retains full copyright over all test files and helper files.** This repository makes no claim of ownership over those files. They are Boot.dev's property and subject to Boot.dev's terms and conditions.
+
+## Permissions
+
+You are permitted to:
+
+- **View** this repository for learning and educational purposes
+- **Study** my solution approach and methodology
+- **Fork** this repository for personal study and experimentation
+- **Reference** the problem-solving techniques for understanding concepts
+
+## Restrictions
+
+You are **expressly prohibited** from:
+
+- **Submitting** any of my solutions as your own work on Boot.dev or any other platform
+- **Copying** solutions verbatim to pass course challenges without understanding them
+- **Redistributing** the Boot.dev test files or helper files outside the context of running these solutions
+- **Using** this code for commercial purposes
+- **Representing** these solutions as your own original work
+
+## Legal Disclaimer
+
+**BY ACCESSING THIS REPOSITORY, YOU AGREE TO THE FOLLOWING:**
+
+1. **No Responsibility**: The author (Gouranga Das Samrat) assumes **NO RESPONSIBILITY OR LIABILITY** for any consequences arising from your use, misuse, or reference to this code.
+
+2. **Your Sole Responsibility**: You are **solely responsible** for how you use or reference this code, including any violations of Boot.dev's Terms of Service.
+
+3. **No Warranty**: This code is provided "AS IS" without warranty of any kind.
+
+4. **Indemnification**: You agree to indemnify and hold harmless the author from any claims, damages, or liabilities arising from your use of this code.
+
+## Third-Party Intellectual Property
+
+All test files (`*_test.go`, `helpers.go`, `main_tests.go`) are the exclusive intellectual property of **Boot.dev** (Wagslane LLC). Their inclusion in this repository is incidental to the purpose of storing and running my solutions. No license to those files is granted by this document — refer to Boot.dev's own terms for their usage rights.
+
+## Affiliation Disclaimer
+
+This repository is an independent personal project and is:
+
+- **NOT affiliated with** Boot.dev, Wagslane LLC, or any of their staff
+- **NOT endorsed by** Boot.dev or the course instructors
+- **NOT official course material** — these are personal solutions only
+
+All Boot.dev course materials, trademarks, and intellectual property remain the exclusive property of Boot.dev / Wagslane LLC.
+
+## Acknowledgment
+
+By accessing, viewing, or forking this repository, you acknowledge that:
+
+1. You have read and understood this license
+2. You agree to abide by all terms and restrictions
+3. You accept sole responsibility for your use of this code
+4. The author bears no responsibility for your actions
+5. You will not copy or submit any part of these solutions as your own work
+6. Boot.dev retains full ownership of all test and helper files in this repository
+
+---
+
+**Last Updated**: June 2026
+**License Version**: 1.0
+
+For questions regarding permitted use, please open an issue in this repository.

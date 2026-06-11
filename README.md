@@ -1,6 +1,46 @@
 # Learn Cryptography with Golang
 
-This is a course from [Boot.dev](https://www.boot.dev/courses/learn-cryptography-golang)
+My personal solutions for the [Boot.dev Learn Cryptography with Golang](https://www.boot.dev/courses/learn-cryptography-golang) course.
+
+---
+
+## ⚠️ License & Terms of Use
+
+**BY ACCESSING, VIEWING, OR USING THIS REPOSITORY, YOU AGREE TO BE BOUND BY THE TERMS IN [LICENSE.md](./LICENSE.md).**
+
+- ✅ **Study the solutions** to understand cryptography concepts
+- ✅ **Reference the approach** for learning purposes
+- ❌ **DO NOT submit** any code as your own work on Boot.dev or elsewhere
+- ❌ **DO NOT copy** solutions without understanding them
+
+Please read the full [LICENSE.md](./LICENSE.md) before proceeding.
+
+---
+
+## Disclaimer
+
+These solutions are shared for educational reference only. You should attempt each challenge yourself before looking at any solution — working through problems independently is how you actually learn cryptography.
+
+> All test files (`*_test.go`, `helpers.go`) are the intellectual property of **Boot.dev** and are included here solely as the test harness required to run and validate my solutions. This repository makes no claim of ownership over those files.
+
+---
+
+## Running Tests
+
+Use the `justfile` to run tests for a specific chapter and level:
+
+```bash
+just test <chapter> <level>
+```
+
+**Examples:**
+
+- `just test 1 1` — Chapter 1, Level 1
+- `just test 8 5` — Chapter 8, Level 5
+
+---
+
+## Table of Contents
 
 ## Chapter 1: Symmetric Encryption
 
@@ -199,23 +239,6 @@ This is a course from [Boot.dev](https://www.boot.dev/courses/learn-cryptography
 - **Level 7**: Why Are KDFs Slow? (Quiz)
 - **Level 8**: Why Are KDFs Slow? (Quiz)
 
-## Running Tests
+---
 
-Use the `justfile` to run tests for a specific chapter and level:
-
-```bash
-just test <chapter> <level>
-```
-
-**Examples:**
-
-- `just test 1 1` - Run tests for Chapter 1, Level 1
-- `just test 1 4` - Run tests for Chapter 1, Level 4
-
-## License
-
-This repository contains solutions for the [Boot.dev Cryptography with Golang](https://www.boot.dev/courses/learn-cryptography-golang) course.
-
-**Note:** Test files (`*_test.go`, `main_tests.go` and `helpers.go`) are copyrighted by Boot.dev. These are provided as part of the course material and are used for validating solutions.
-
-All other code in this repository is licensed under the MIT License.
+If you find this repository helpful, please leave a ⭐ star!
