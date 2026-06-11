@@ -95,25 +95,25 @@ This is a course from [Boot.dev](https://www.boot.dev/courses/learn-cryptography
 
 ### Levels
 
-- **Level 1**: Feistel Network (Quiz)
+- **Level 1**: Feistel Network (Coding Challenge)
 - **Level 2**: Feistel Network (Quiz)
 - **Level 3**: Feistel Network (Quiz)
 - **Level 4**: Feistel Network (Quiz)
-- **Level 5**: Data Encryption Standard (Quiz)
+- **Level 5**: Data Encryption Standard (Coding Challenge)
 - **Level 6**: DES Review (Quiz)
 - **Level 7**: DES Review (Quiz)
-- **Level 8**: Initialization Vectors (Quiz)
-- **Level 9**: DES Feistel Network (Coding Challenge)
-- **Level 10**: DES Feistel Network (Coding Challenge)
+- **Level 8**: Initialization Vectors (Coding Challenge)
+- **Level 9**: DES Feistel Network (Quiz)
+- **Level 10**: DES Feistel Network (Quiz)
 - **Level 11**: Substitution Box (Coding Challenge)
-- **Level 12**: Substitution Box (Coding Challenge)
-- **Level 13**: Substitution Box (Coding Challenge)
+- **Level 12**: Substitution Box (Quiz)
+- **Level 13**: Substitution Box (Quiz)
 
 ## Chapter 9: AES
 
 ### Levels
 
-- **Level 1**: Advanced Encryption Standard (Quiz)
+- **Level 1**: Advanced Encryption Standard (Coding Challenge)
 - **Level 2**: Advanced Encryption Standard (Quiz)
 - **Level 3**: Advanced Encryption Standard (Quiz)
 - **Level 4**: Advanced Encryption Standard (Quiz)
@@ -125,28 +125,28 @@ This is a course from [Boot.dev](https://www.boot.dev/courses/learn-cryptography
 
 ### Levels
 
-- **Level 1**: Asymmetric Encryption (Quiz)
+- **Level 1**: Asymmetric Encryption (Coding Challenge)
 - **Level 2**: Public/Private Keys (Quiz)
 - **Level 3**: Public/Private Keys (Quiz)
-- **Level 4**: Public/Private Keys (Coding Challenge)
+- **Level 4**: Public/Private Keys (Quiz)
 
 ## Chapter 11: RSA
 
 ### Levels
 
-- **Level 1**: RSA (Quiz)
+- **Level 1**: RSA (Coding Challenge)
 - **Level 2**: RSA vs. ECC (Quiz)
 - **Level 3**: RSA vs. ECC (Quiz)
 - **Level 4**: RSA vs. ECC (Quiz)
 - **Level 5**: RSA Key Generation (Coding Challenge)
-- **Level 6**: Totient and E (Quiz)
-- **Level 7**: Modular Arithmetic (Coding Challenge)
-- **Level 8**: Modular Arithmetic (Coding Challenge)
+- **Level 6**: Totient and E (Coding Challenge)
+- **Level 7**: Modular Arithmetic (Quiz)
+- **Level 8**: Modular Arithmetic (Quiz)
 - **Level 9**: Modular Arithmetic (Quiz)
 - **Level 10**: Modular Arithmetic (Quiz)
 - **Level 11**: Encryption (Coding Challenge)
-- **Level 12**: Multiplicative Inverse (Coding Challenge)
-- **Level 13**: Multiplicative Inverse (Coding Challenge)
+- **Level 12**: Multiplicative Inverse (Quiz)
+- **Level 13**: Multiplicative Inverse (Quiz)
 - **Level 14**: Private Key (Coding Challenge)
 - **Level 15**: Decryption (Coding Challenge)
 - **Level 16**: Encryption and Decryption Explained (Quiz)
@@ -156,14 +156,14 @@ This is a course from [Boot.dev](https://www.boot.dev/courses/learn-cryptography
 
 ### Levels
 
-- **Level 1**: Hash Functions (Quiz)
+- **Level 1**: Hash Functions (Coding Challenge)
 - **Level 2**: Hash Collisions (Quiz)
 - **Level 3**: Hash Collisions (Quiz)
-- **Level 4**: Hash Collisions (Coding Challenge)
+- **Level 4**: Hash Collisions (Quiz)
 - **Level 5**: Hashmaps (Coding Challenge)
-- **Level 6**: Deterministic (Coding Challenge)
+- **Level 6**: Deterministic (Quiz)
 - **Level 7**: Deterministic (Quiz)
-- **Level 8**: One Way (Coding Challenge)
+- **Level 8**: One Way (Quiz)
 - **Level 9**: One Way (Quiz)
 - **Level 10**: Toy Hash Function (Coding Challenge)
 - **Level 11**: Toy Hash Review (Quiz)
@@ -173,14 +173,14 @@ This is a course from [Boot.dev](https://www.boot.dev/courses/learn-cryptography
 
 ### Levels
 
-- **Level 1**: What Is a Message Integrity? (Quiz)
+- **Level 1**: What Is a Message Integrity? (Coding Challenge)
 - **Level 2**: Message Authentication Code (MAC) (Quiz)
 - **Level 3**: Message Authentication Code (MAC) (Quiz)
 - **Level 4**: Message Authentication Code (MAC) (Coding Challenge)
-- **Level 5**: Hash-Based Message Authentication Code (Coding Challenge)
-- **Level 6**: Hash-Based Message Authentication Code (Coding Challenge)
+- **Level 5**: Hash-Based Message Authentication Code (Quiz)
+- **Level 6**: Hash-Based Message Authentication Code (Quiz)
 - **Level 7**: Toy HMAC (Coding Challenge)
-- **Level 8**: MACs and JWTs (Coding Challenge)
+- **Level 8**: MACs and JWTs (Quiz)
 - **Level 9**: MACs and JWTs (Quiz)
 - **Level 10**: Asymmetric JWTs (Coding Challenge)
 - **Level 11**: Asymmetric JWT Review (Quiz)
@@ -191,13 +191,13 @@ This is a course from [Boot.dev](https://www.boot.dev/courses/learn-cryptography
 ### Levels
 
 - **Level 1**: Key Derivation Functions (Quiz)
-- **Level 2**: Key Derivation Functions (Coding Challenge)
+- **Level 2**: Key Derivation Functions (Quiz)
 - **Level 3**: Argon2 – Storing Passwords (Coding Challenge)
-- **Level 4**: Argon2 Phc Review (Coding Challenge)
+- **Level 4**: Argon2 Phc Review (Quiz)
 - **Level 5**: Argon2 Phc Review (Quiz)
 - **Level 6**: Salts (Coding Challenge)
 - **Level 7**: Why Are KDFs Slow? (Quiz)
-- **Level 8**: Why Are KDFs Slow? (Coding Challenge)
+- **Level 8**: Why Are KDFs Slow? (Quiz)
 
 ## Running Tests
 
