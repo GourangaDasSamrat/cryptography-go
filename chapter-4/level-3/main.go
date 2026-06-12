@@ -24,6 +24,6 @@ func getOffsetChar(c rune, offset int) string {
 	if index == -1 {
 		return string(c)
 	}
-	newIndex := ((index + offset) % 26 + 26) % 26
+	newIndex := ((index+offset)%26 + 26) % 26
 	return string(alphabet[newIndex])
 }
